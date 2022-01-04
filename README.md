@@ -1,0 +1,2 @@
+# LidlApp
+Lidl Store notifier
